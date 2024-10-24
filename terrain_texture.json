@@ -1,0 +1,435 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        "bookshelf": {
+            "textures": {
+                "variations": [{
+                    "path": "textures/blocks/bookshelf/0"
+                },
+                    {
+                        "path": "textures/blocks/bookshelf/1"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/2"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/3"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/4"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/5"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/6"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/7"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/8"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/9"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/10"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/11"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/12"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/13"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/14"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/15"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/16"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/17"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/18"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/19"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/20"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/21"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/22"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/23"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/24"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/25"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/26"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/27"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/28"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/29"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/30"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/31"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/32"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/33"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/34"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/35"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/36"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/37"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/38"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/39"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/40"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/41"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/42"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/43"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/44"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/45"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/46"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/47"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/48"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/49"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/50"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/51"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/52"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/53"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/54"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/55"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/56"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/57"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/58"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/59"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/60"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/61"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/62"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/63"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/64"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/65"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/66"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/67"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/68"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/69"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/70"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/71"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/72"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/73"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/74"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/75"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/76"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/77"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/78"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/79"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/80"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/81"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/82"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/83"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/84"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/85"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/86"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/87"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/88"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/89"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/90"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/91"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/92"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/93"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/94"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/95"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/96"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/97"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/98"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/99"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/100"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/101"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/102"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/103"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/104"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/105"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/106"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/107"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/108"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/109"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/110"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/111"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/112"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/113"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/114"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/115"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/116"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/117"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/118"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/119"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/120"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/121"
+                    },
+                    {
+                        "path": "textures/blocks/bookshelf/sus"
+                    }]
+            },
+            "crafting_table_side": {
+                "textures": {
+                    "variations": [
+                        "textures": "textures/blocks/crafting_table_side"
+                        "textures": "textures/blocks/crafting_table_side_2"
+                    ]
+                }
+            },
+
+            "crafting_table_front": {
+                "textures": {
+                    "variations": [
+                        "textures": "textures/blocks/crafting_table_front"
+                        "textures": "textures/blocks/crafting_table_front_2"
+                    ]
+                }
+            },
+            "mushroom_red": {
+
+            "textures": {
+
+                "variations": [{
+                        "path": "textures/blocks/mushroom_red"
+                    }, {
+                        "path": "textures/blocks/mushroom_red_2"
+                    }, {
+                        "path": "textures/blocks/mushroom_red_3"
+                    }, {
+                        "path": "textures/blocks/mushroom_red_4"
+                    }, {
+                        "path": "textures/blocks/mushroom_red_5"
+                    }, {
+                        "path": "textures/blocks/mushroom_red_6"
+                    }
+                ]
+            }
+        },
+		"mushroom_brown": {
+            "textures": {
+                "variations": [{
+                        "path": "textures/blocks/mushroom_brown"
+                    }, {
+                        "path": "textures/blocks/mushroom_brown_2"
+                    }, {
+                        "path": "textures/blocks/mushroom_brown_3"
+                    }, {
+                        "path": "textures/blocks/mushroom_brown_4"
+                    }, {
+                        "path": "textures/blocks/mushroom_brown_5"
+                    }, {
+                        "path": "textures/blocks/mushroom_brown_6"
+                        }
+                    ]
+                }
+        }
+    }
+}
